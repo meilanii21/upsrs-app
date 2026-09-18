@@ -1,0 +1,9 @@
+{
+  "appId": "com.upsrs.mpp",
+  "appName": "upsrs",
+  "webDir": "www",
+  "server": {
+    "url": "https://script.google.com/macros/s/AKfycbz187XAQ5LkeyZMXG49AnbQDgyiEq2LlELKa0EvDU4TtIg2d18GweK3Wfahwxyfr1AzjQ/exec",
+    "cleartext": true
+  }
+}
