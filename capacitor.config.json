@@ -3,10 +3,10 @@
   "appName": "upsrs",
   "webDir": "www",
   "server": {
-    "url": "https://github.com/meilanii21/upsrs-app",
+    "url": "https://script.google.com/macros/s/AKfycbz187XAQ5LkeyZMXG49AnbQDgyiEq2LlELKa0EvDU4TtIg2d18GweK3Wfahwxyfr1AzjQ/exec",
     "allowNavigation": [
-      "https://github.com/meilanii21/upsrs-app",
-      "https://github.com/meilanii21/upsrs-app"
+      "https://script.google.com/macros/s/AKfycbz187XAQ5LkeyZMXG49AnbQDgyiEq2LlELKa0EvDU4TtIg2d18GweK3Wfahwxyfr1AzjQ/exec",
+      "https://script.google.com/macros/s/AKfycbz187XAQ5LkeyZMXG49AnbQDgyiEq2LlELKa0EvDU4TtIg2d18GweK3Wfahwxyfr1AzjQ/exec"
     ]
   }
 }
